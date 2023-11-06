@@ -1,0 +1,8 @@
+package abtractDemo;
+
+public class BaseDatabaseManager {
+
+	public abstract void getData() {
+		
+	}
+}

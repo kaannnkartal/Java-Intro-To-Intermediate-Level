@@ -1,0 +1,14 @@
+package overriding;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		OgretmenKrediManager ogretmenKrediManager = new OgretmenKrediManager();
+		
+		double sonuc = ogretmenKrediManager.hesapla(1000);
+		System.out.println(sonuc);
+	}
+
+}

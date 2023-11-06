@@ -1,0 +1,6 @@
+package polymorpismDemo;
+
+public class DatabaseLogger extends BaseLogger {
+
+	
+}

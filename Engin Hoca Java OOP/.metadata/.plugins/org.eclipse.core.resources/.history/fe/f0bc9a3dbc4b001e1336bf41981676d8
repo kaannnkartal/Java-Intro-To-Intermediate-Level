@@ -1,0 +1,7 @@
+package interfaceAbstractProjeDemo.Concrete;
+
+import interfaceAbstractProjeDemo.Abstract.BaseCustomerManager;
+
+public class StarbucksCustomerManager extends BaseCustomerManager {
+
+}

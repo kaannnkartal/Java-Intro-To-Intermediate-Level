@@ -1,0 +1,5 @@
+package interfaceAbstractProjeDemo.Abstract;
+
+public class BaseCustomerManager implements ICustomerService {
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Entities.Customer"/>
+    <fullyQualifiedTypeName name="interfaceAbstractProjeDemo.Abstract.IEntity"/>
+    <fullyQualifiedTypeName name="interfaceAbstractProjeDemo.Entities.Customer"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="interfaceAbstractProjeDemo.Concrete.NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="interfaceAbstractProjeDemo.Abstract.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="interfaceAbstractProjeDemo.Abstract.ICustomerCheckService"/>
+</qualifiedTypeNameHistroy>

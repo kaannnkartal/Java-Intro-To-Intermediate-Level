@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\KAAN\WorkSpace\Java_Spring_React\.metadata\.plugins\org.eclipse.jdt.core
+435225591.index
+2170606631.index
+3799196959.index
+1865797976.index
+1046348402.index

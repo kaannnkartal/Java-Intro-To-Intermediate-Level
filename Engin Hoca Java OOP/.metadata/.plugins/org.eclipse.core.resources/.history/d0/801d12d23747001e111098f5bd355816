@@ -1,0 +1,9 @@
+package abtractDemo;
+
+public class CustomerManager {
+
+	BaseDatabaseMaanger databaseManager;
+	public void getCustomers() {
+		
+	}
+}

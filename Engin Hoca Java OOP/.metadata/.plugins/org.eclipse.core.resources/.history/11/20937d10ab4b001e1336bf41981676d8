@@ -1,0 +1,14 @@
+package interfaces2;
+
+public class CustomerManager {
+
+	ICustomerDal customerDal;
+	
+	public CustomerManager() {
+		
+	}
+	public void add() {
+		// İş kodları yazılır.
+		
+	}
+}

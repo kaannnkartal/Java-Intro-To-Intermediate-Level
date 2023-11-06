@@ -1,0 +1,20 @@
+package interfaceAbstractProjeDemo.Concrete;
+
+import interfaceAbstractProjeDemo.Abstract.BaseCustomerManager;
+import interfaceAbstractProjeDemo.Entities.Customer;
+
+public class StarbucksCustomerManager extends BaseCustomerManager {
+
+	@Override
+	public void save(Customer customer) {
+		
+		checkIfRealPerson(customer);
+		
+	}
+
+	private void checkIfRealPerson(Customer customer) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

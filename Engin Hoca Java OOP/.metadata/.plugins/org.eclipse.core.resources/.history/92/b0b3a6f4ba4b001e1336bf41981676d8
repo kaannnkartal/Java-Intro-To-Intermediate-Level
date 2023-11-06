@@ -1,0 +1,5 @@
+package interfaceAbstractProjeDemo.Concrete;
+
+public class NeroCustomerManager {
+
+}

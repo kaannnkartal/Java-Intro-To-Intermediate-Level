@@ -1,0 +1,8 @@
+package polymorpismDemo;
+
+public class CustomerManager {
+
+	public void logCustomer() {
+		
+	}
+}

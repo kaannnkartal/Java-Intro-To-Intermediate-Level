@@ -1,0 +1,13 @@
+package interfaceAbstractProjeDemo.Abstract;
+
+import interfaceAbstractProjeDemo.Entities.Customer;
+
+public abstract class BaseCustomerManager implements ICustomerService {
+
+	@Override
+	public void save(Customer customer) {
+		System.out.println("Veri Tabanına Eklendi" + customer.getFirstName());
+		
+	}
+
+}

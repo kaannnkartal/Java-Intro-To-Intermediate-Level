@@ -1,0 +1,22 @@
+package interfaceAbstractProjeDemo.Concrete;
+
+import interfaceAbstractProjeDemo.Abstract.BaseCustomerManager;
+import interfaceAbstractProjeDemo.Abstract.ICustomerCheckService;
+import interfaceAbstractProjeDemo.Entities.Customer;
+
+public class StarbucksCustomerManager extends BaseCustomerManager {
+
+	ICustomerCheckService customerCheckService;
+
+	@Override
+	public void save(Customer customer) {
+
+		if (customerCheckService.checkIfRealPerson(customer)) {
+			System.out.println("Başarıyla kaydedildi.");
+		} else {
+			System.out.println("Not a valid person");
+		}
+
+	}
+
+}

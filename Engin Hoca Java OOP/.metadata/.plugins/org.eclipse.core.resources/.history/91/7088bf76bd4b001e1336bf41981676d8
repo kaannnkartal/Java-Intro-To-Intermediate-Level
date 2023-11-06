@@ -1,0 +1,6 @@
+package interfaceAbstractProjeDemo.Concrete;
+
+public class CustomerCheckManager implements ICustomerCheckService{
+
+	
+}

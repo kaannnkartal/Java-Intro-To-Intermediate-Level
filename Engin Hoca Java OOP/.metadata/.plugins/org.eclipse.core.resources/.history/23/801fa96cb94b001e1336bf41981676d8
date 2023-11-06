@@ -1,0 +1,7 @@
+package interfaceAbstractProjeDemo.Abstract;
+
+public interface ICustomerService {
+
+	
+	void save(Customer customer);
+}

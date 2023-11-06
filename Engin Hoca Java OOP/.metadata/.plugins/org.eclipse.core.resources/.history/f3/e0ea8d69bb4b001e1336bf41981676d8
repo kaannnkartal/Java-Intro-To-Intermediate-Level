@@ -1,0 +1,16 @@
+package interfaceAbstractProjeDemo;
+
+import java.util.Date;
+
+import interfaceAbstractProjeDemo.Entities.Customer;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub,
+		
+		Customer customer = new Customer(new Date(2000,31,8),"Kaan", "Kartal", "14981121074");
+
+	}
+
+}

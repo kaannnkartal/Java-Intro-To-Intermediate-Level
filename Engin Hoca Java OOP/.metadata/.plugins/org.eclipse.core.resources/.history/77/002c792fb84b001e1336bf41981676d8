@@ -1,0 +1,15 @@
+package interfaceAbstractProjeDemo.Entities;
+
+import java.util.Date;
+
+public class Customer implements IEntity{
+
+	private int id;
+	private String firstName;
+	private String lastName;
+	private Date dateOfBirth;
+	private String nationalityId;
+	
+	
+	
+}

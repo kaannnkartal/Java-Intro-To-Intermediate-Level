@@ -1,0 +1,8 @@
+package interfaces2;
+
+public class CustomerManager {
+
+	public void add() {
+		
+	}
+}
