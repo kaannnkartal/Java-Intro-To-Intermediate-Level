@@ -1,0 +1,63 @@
+
+public class Calisan {
+	private String ad, soyad, telefon, email;
+	
+	
+	
+	Calisan(String ad, String soyad, String email){
+		this.ad = ad;
+		this.soyad = soyad;
+		this.email = email;
+		this.telefon = telefon;
+	}
+	
+	
+	public void giris() {
+		System.out.println("Çalışan " + this.ad + " " + this.soyad +"girişş yaptı.");
+	}
+	
+	public void cikis() {
+		System.out.println("Çalışan " + this.ad + " " + this.soyad +"çıkışş yaptı.");
+	}
+	
+	public void yemek() {
+		System.out.println("Çalışan " + this.ad + " " + this.soyad +"yemek");
+	}
+
+	
+	
+	
+
+	public String getAd() {
+		return ad;
+	}
+
+
+	public void setAd(String ad) {
+		this.ad = ad;
+	}
+
+
+	public String getSoyad() {
+		return soyad;
+	}
+
+
+	public void setSoyad(String soyad) {
+		this.soyad = soyad;
+	}
+
+
+	public String getEmail() {
+		return email;
+	}
+
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	
+	
+	
+	
+}

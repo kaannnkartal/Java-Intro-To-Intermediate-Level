@@ -1,0 +1,12 @@
+
+public class Calisan {
+	String ad, soyad, email;
+	
+	
+	
+	Calisan(String ad, String soyad, String email){
+		this.ad = ad;
+		this.soyad = soyad;
+		this.email = email;
+	}
+}

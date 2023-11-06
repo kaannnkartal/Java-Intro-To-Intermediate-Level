@@ -1,0 +1,25 @@
+
+public class Calisan {
+	String ad, soyad, email;
+	
+	
+	
+	Calisan(String ad, String soyad, String email){
+		this.ad = ad;
+		this.soyad = soyad;
+		this.email = email;
+	}
+	
+	
+	public void giris() {
+		System.out.println("Çalışan " + this.ad + " " + this.soyad +"girişş yaptı.");
+	}
+	
+	public void cikis() {
+		System.out.println("Çalışan " + this.ad + " " + this.soyad +"çıkışş yaptı.");
+	}
+	
+	public void yemek() {
+		System.out.println("Çalışan " + this.ad + " " + this.soyad +"yemek");
+	}
+}

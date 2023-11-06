@@ -1,0 +1,13 @@
+
+public class Memurlar extends Calisan{
+	
+	Memurlar(String ad, String soyad, String email, String telefon) {
+		super(ad, soyad, email, telefon);
+		
+	}
+	String departman;
+	int mesai;
+	
+	
+
+}

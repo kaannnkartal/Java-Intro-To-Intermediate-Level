@@ -1,0 +1,18 @@
+
+public class Akademisyen extends Calisan {
+
+	String bolum, gorevler;
+	String [] dersler;
+	
+	
+	
+	Akademisyen(String ad, String soyad, String email, String telefon) {
+		super(ad, soyad, email, telefon);
+	}
+	
+	
+	
+	
+	
+
+}
